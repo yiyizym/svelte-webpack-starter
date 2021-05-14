@@ -26,7 +26,7 @@ Autoprefixer, and HMR.
 
 Pull the template files with [`degit`](https://github.com/Rich-Harris/degit) and install dependencies.
 
-**🚀 Webpack 5 **
+**🚀 Webpack 5**
 
 ```bash
 npx degit yiyizym/svelte-webpack-starter
